@@ -48,16 +48,22 @@
 
 ### 🤝 Connect with me
 <p align="left">
-  <a href="https://linkedin.com/in/apeksha jain" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40" />
+  <a href="https://www.linkedin.com/in/apeksha-jain-b95169295" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"
+         alt="LinkedIn" width="40" height="40" style="margin: 20px;" />
   </a>
+
   <a href="https://auth.geeksforgeeks.org/user/morenaapekso9mn" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg" alt="GFG" width="40" height="40" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/43/GeeksforGeeks.svg"
+         alt="GFG" width="40" height="40" style="margin: 20px;" />
   </a>
-    <a href="https://leetcode.com/u/ape88/" target="_blank">
-    <img src="https://s.yimg.com/zb/imgv1/5615572b-3a28-3568-a845-b84375dc9d01/t_500x300" alt="LeetCode" width="40" height="40" />
+
+  <a href="https://leetcode.com/u/ape88/" target="_blank">
+    <img src="https://s.yimg.com/zb/imgv1/5615572b-3a28-3568-a845-b84375dc9d01/t_500x300"
+         alt="LeetCode" width="40" height="40" style="margin: 20px;" />
   </a>
 </p>
+
 
 ---
 
