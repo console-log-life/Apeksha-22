@@ -12,7 +12,7 @@
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ape88/)
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/morenaapekso9mn)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apeksha-22)
-[![Resume](https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1wHR4aUpTIRfIZBC0Ko7rymddXhvOmNJ3/view?usp=drivesdk)
+[![Resume](https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1SuAdXLbETyUZnrrxYSBjemNkWFuwRTd8/view?usp=drivesdk)
 [![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apekshaj8805@gmail.com)
 [![Views](https://komarev.com/ghpvc/?username=apeksha-22&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Apeksha-22)
 
