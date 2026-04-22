@@ -17,11 +17,10 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/apeksha-jain-b95169295)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/ape88/)
 [![GFG](https://img.shields.io/badge/GeeksForGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/morenaapekso9mn)
-[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Apeksha-22)
-[![Portfolio](https://img.shields.io/badge/Portfolio-a78bfa?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/Apeksha-22)
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/console-log-life/)
 [![Resume](https://img.shields.io/badge/Resume-EC4899?style=for-the-badge&logo=readthedocs&logoColor=white)](https://drive.google.com/file/d/1SuAdXLbETyUZnrrxYSBjemNkWFuwRTd8/view?usp=drivesdk)
 [![Mail](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:apekshaj8805@gmail.com)
-[![Views](https://komarev.com/ghpvc/?username=apeksha-22&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/Apeksha-22)
+[![Views](https://komarev.com/ghpvc/?username=apeksha-22&label=Profile+Views&color=7c3aed&style=for-the-badge)](https://github.com/console-log-life)
 
 </div>
 
@@ -148,14 +147,14 @@ const apeksha: SoftwareEngineer = {
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=apeksha-22&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=cdd6f4&ring_color=a78bfa" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=console-log-life&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=ec4899&text_color=cdd6f4&ring_color=a78bfa" />
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=apeksha-22&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=cdd6f4" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=apeksha-22&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=cdd6f4&dates=6272a4" width="480"/>
+<img src="https://streak-stats.demolab.com/?user=console-log-life&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ec4899&currStreakLabel=a78bfa&sideLabels=cdd6f4&dates=6272a4" width="480"/>
 
 </div>
 
